@@ -1,0 +1,1 @@
+import {} from './Config/Tools/gulp-for-scripts.babel.js';
